@@ -2,6 +2,10 @@
 
 Èric Martínez Illamola
 
+Para poder visualizar los gráficos 3D del notebook, hacerlo desde el siguiente link de nbviewer:
+
+https://nbviewer.org/github/EricMartinezIllamola/J2D23_Hackaton/blob/48114150cdc0d41967224d6b165528c787b2314d/Hackaton_00.ipynb
+
 ## 1. Introducción
 
 Partimos de dos datasets:
